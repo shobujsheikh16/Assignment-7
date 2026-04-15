@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "picture": "https://randomuser.me/api/portraits/men/32.jpg",
+    "email": "john@example.com",
+    "days_since_contact": 12,
+    "status": "overdue",
+    "tags": ["work"],
+    "bio": "Met in university. Love hiking together.",
+    "goal": 14,
+    "next_due_date": "2026-04-20"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Ahmed",
+    "picture": "https://randomuser.me/api/portraits/women/44.jpg",
+    "email": "sarah@example.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["school", "best friend"],
+    "bio": "School friend, still in touch regularly.",
+    "goal": 10,
+    "next_due_date": "2026-04-25"
+  },
+  {
+    "id": 3,
+    "name": "Karim Khan",
+    "picture": "https://randomuser.me/api/portraits/men/45.jpg",
+    "email": "karim@example.com",
+    "days_since_contact": 20,
+    "status": "overdue",
+    "tags": ["work"],
+    "bio": "Office colleague and coffee buddy.",
+    "goal": 14,
+    "next_due_date": "2026-04-10"
+  },
+  {
+    "id": 4,
+    "name": "Nusrat Jahan",
+    "picture": "https://randomuser.me/api/portraits/women/22.jpg",
+    "email": "nusrat@example.com",
+    "days_since_contact": 3,
+    "status": "almost due",
+    "tags": ["cousin"],
+    "bio": "Family cousin, very close.",
+    "goal": 7,
+    "next_due_date": "2026-04-18"
+  },
+  {
+    "id": 5,
+    "name": "Arif Hossain",
+    "picture": "https://randomuser.me/api/portraits/men/12.jpg",
+    "email": "arif@example.com",
+    "days_since_contact": 8,
+    "status": "on-track",
+    "tags": ["gym"],
+    "bio": "Gym buddy and motivation partner.",
+    "goal": 10,
+    "next_due_date": "2026-04-22"
+  },
+  {
+    "id": 6,
+    "name": "Tania Sultana",
+    "picture": "https://randomuser.me/api/portraits/women/60.jpg",
+    "email": "tania@example.com",
+    "days_since_contact": 15,
+    "status": "almost due",
+    "tags": ["college"],
+    "bio": "College best friend.",
+    "goal": 14,
+    "next_due_date": "2026-04-19"
+  },
+  {
+    "id": 7,
+    "name": "Shakil Ahmed",
+    "picture": "https://randomuser.me/api/portraits/men/29.jpg",
+    "email": "shakil@example.com",
+    "days_since_contact": 6,
+    "status": "on-track",
+    "tags": ["school"],
+    "bio": "School friend from childhood.",
+    "goal": 10,
+    "next_due_date": "2026-04-21"
+  },
+  {
+    "id": 8,
+    "name": "Mim Akter",
+    "picture": "https://randomuser.me/api/portraits/women/18.jpg",
+    "email": "mim@example.com",
+    "days_since_contact": 11,
+    "status": "almost due",
+    "tags": ["college"],
+    "bio": "College bestie, always supportive.",
+    "goal": 14,
+    "next_due_date": "2026-04-17"
+  },
+  {
+    "id": 9,
+    "name": "Rafi Islam",
+    "picture": "https://randomuser.me/api/portraits/men/33.jpg",
+    "email": "rafi@example.com",
+    "days_since_contact": 18,
+    "status": "overdue",
+    "tags": ["work"],
+    "bio": "Office friend, lunch partner.",
+    "goal": 14,
+    "next_due_date": "2026-04-12"
+  },
+  {
+    "id": 10,
+    "name": "Tasmia Khan",
+    "picture": "https://randomuser.me/api/portraits/women/50.jpg",
+    "email": "tasmia@example.com",
+    "days_since_contact": 4,
+    "status": "on-track",
+    "tags": ["cousin"],
+    "bio": "Family friend, like a sister.",
+    "goal": 7,
+    "next_due_date": "2026-04-23"
+  }
+]
