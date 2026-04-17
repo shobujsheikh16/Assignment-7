@@ -127,33 +127,38 @@ const FriendDetails = () => {
           </button>
         </div>
 
-        {/* Quick Check-In */}
+         {/* QUICK CHECK-IN */}
         <div className="bg-white p-5 rounded-xl shadow">
           <h3 className="font-semibold mb-3 text-gray-700">
             Quick Check-In
           </h3>
 
-          <div className="flex gap-3">
+          <div className="grid grid-cols-3 gap-4">
+
             <button
               onClick={() => handleAction("Call")}
-              className="bg-green-500 text-white px-4 py-2 rounded-md"
+              className="border p-4 rounded-lg flex flex-col items-center gap-2 hover:bg-gray-50"
             >
-              📞 Call
+              📞
+              <span>Call</span>
             </button>
 
             <button
               onClick={() => handleAction("Text")}
-              className="bg-blue-500 text-white px-4 py-2 rounded-md"
+              className="border p-4 rounded-lg flex flex-col items-center gap-2 hover:bg-gray-50"
             >
-              💬 Text
+              💬
+              <span>Text</span>
             </button>
 
             <button
               onClick={() => handleAction("Video")}
-              className="bg-purple-500 text-white px-4 py-2 rounded-md"
+              className="border p-4 rounded-lg flex flex-col items-center gap-2 hover:bg-gray-50"
             >
-              🎥 Video
+              🎥
+              <span>Video</span>
             </button>
+
           </div>
         </div>
 
